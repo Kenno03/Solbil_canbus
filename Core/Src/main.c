@@ -1,5 +1,5 @@
 /* USER CODE BEGIN Header */
-/*Test for github 2 This is to test if Git hub works
+/* TES GITHUB
 /**
   ******************************************************************************
   * @file           : main.c
