@@ -1,5 +1,5 @@
 /* USER CODE BEGIN Header */
-/* TES GITHUB
+/* TEST GITHUB
 /**
   ******************************************************************************
   * @file           : main.c
